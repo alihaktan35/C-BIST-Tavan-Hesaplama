@@ -6,4 +6,5 @@ Kullanıcıdan hisse maliyeti ve görmek isteyeceği tavan sayısını input ola
 Her artışta %10 ekleyerek devam eder.
 
 ###Output:
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA0bDJqeXk5ZnVybjVyZW9sdmswc3ZmY3Bib2lkNG9tOGsyOHpteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FD6OBgPaQmsRou2wdJ/source.gif" width="540" />
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/FD6OBgPaQmsRou2wdJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/FD6OBgPaQmsRou2wdJ">via GIPHY</a></p>
