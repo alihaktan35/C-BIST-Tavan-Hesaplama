@@ -5,5 +5,5 @@ Kullanıcıdan hisse maliyeti ve görmek isteyeceği tavan sayısını input ola
 
 Her artışta %10 ekleyerek devam eder.
 
-###Output:
+### Output:
 <img src="https://media.giphy.com/media/Wb0lJIvVe11OuGTGDY/giphy.gif" width="540" />
